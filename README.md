@@ -1,2 +1,7 @@
 # hello-world
-It'd sure be a bummer if I can't edit this later
+
+There is not much to say about myself. 
+I overthink.
+I overanalyize.
+I'm generally just unsure.
+
